@@ -84,5 +84,5 @@ Non-standard transliterations are marked with an asterisk `*`.
 
 ## Credits
 
-- The font was designed by @heymyian.
+- The font was designed by [Myian](https://github.com/HeyMyian).
 - The font file was created using YellowAfterlife's [Pixel font converter](https://yellowafterlife.itch.io/pixelfont).
