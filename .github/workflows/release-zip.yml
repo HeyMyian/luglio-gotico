@@ -1,0 +1,25 @@
+name: Build release ZIP
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Create release ZIP
+        run: |
+          zip -j "luglio-gotico.zip" release/FONTLOG.txt release/luglio-gotico.ttf release/OFL.txt
+
+      - name: Upload ZIP to GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: luglio-gotico.zip

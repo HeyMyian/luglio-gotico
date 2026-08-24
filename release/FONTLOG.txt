@@ -1,0 +1,64 @@
+FONTLOG
+Luglio Gotico
+==============================================================================
+
+This file provides detailed information on the Luglio Gotico font.
+This information should be distributed along with the Luglio Gotico font
+and any derivative works.
+
+
+Font Information
+----------------------
+
+Luglio Gotico is a proportional pixel font created for the Gothic alphabet which
+was used for writing the extinct Germanic language "Gothic". This font might not
+be useful for typing any other languages or alphabets.
+
+The native font size is 16px.
+The ascent height is 14px. The total height (ascent + descent) is 20px.
+
+This font can be typed by using the common transliterations in the Latin 
+alphabet. Exceptions are:
+
+	* 𐍈 can be typed with ƕ or v.
+	* 𐌸 can be typed with þ or c.
+	* 𐍁 can be typed with y.
+	* 𐍊 can be typed with 0 (zero).
+
+Furthermore supported are the native Gothic Unicode glyphs in the following
+range: U+10330–U+1034F.
+
+
+Contribution
+------------
+
+This project lives at:
+https://github.com/HeyMyian/Luglio-Gotico
+
+To contribute:
+
+	* Open an issue on GitHub or
+	* Contact Myian <heymyian@gmail.com>.
+
+
+ChangeLog
+---------
+
+2026-08-24 (Myian) Luglio Gotico 1.0
+- Initial release
+
+
+Acknowledgements
+----------------
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Myian
+E: heymyian@gmail.com
+W: https://myian.dev
+D: Designer
+
+
+The font file was created using YellowAfterlife's "Pixel font converter".
+https://yellowafterlife.itch.io/pixelfont
