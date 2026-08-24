@@ -13,6 +13,13 @@
 > [!NOTE]
 > This font is intended for the Gothic language. It might not be useful for typing other languages or to imitate other alphabets.
 
+
+## Example
+
+<img alt="example text from codex argenteus 118r (luke)" src="assets/example.png" width="838">
+
+Text from the Codex Argenteus 118r.
+
 ## Usage
 
 ### Font size
@@ -76,13 +83,6 @@ Non-standard transliterations are marked with an asterisk `*`.
 | <img src="assets/glyphs/dash.png">     |         |   |  | <kbd>-</kbd> (hyphen) |
 | <img src="assets/glyphs/dash_en.png">  |         |   |  | <kbd>–</kbd> (en-dash) |
 | <img src="assets/glyphs/dash_em.png">  |         |  |  | <kbd>—</kbd> (em-dash) |
-
-
-## Example Text
-
-<img alt="example text from codex argenteus 118r (luke)" src="assets/example.png" width="838">
-
-Text from the Codex Argenteus.
 
 ## Credits
 
