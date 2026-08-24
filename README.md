@@ -8,11 +8,9 @@
 
 **Luglio Gotico** is a proportional pixel font created for the **Gothic alphabet** which was used for writing the extinct Germanic language "Gothic" in the Codex Argenteus and other works some 1500 years ago.
 
+This font is intended for the Gothic language. It might not be useful for typing other languages or to imitate other alphabets.
+
 **[Download luglio-gotico.zip](https://github.com/HeyMyian/luglio-gotico/releases/latest/download/luglio-gotico.zip)** from the latest release.
-
-> [!NOTE]
-> This font is intended for the Gothic language. It might not be useful for typing other languages or to imitate other alphabets.
-
 
 ## Example
 
